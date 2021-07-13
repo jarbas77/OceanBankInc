@@ -26,7 +26,7 @@ const Footer = () => {
                 <FooterLink to='/'>Contact</FooterLink>
                 <FooterLink to='/'>Support</FooterLink>
                 <FooterLink to='/'>Lost or stolen cards</FooterLink>
-                <FooterLink to='/'>Trouble logging on to Online Banking</FooterLink>
+                <FooterLink to='/'>Trouble logging </FooterLink>
             </FooterLinksItems>
           </FooterLinksWrapper>
 
